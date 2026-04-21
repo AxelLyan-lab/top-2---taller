@@ -376,6 +376,7 @@ curl http://localhost:5000/zonas      # Lista de zonas
 curl http://localhost:5000/logs/tomate # Datos de una zona
 
 # 6. Acceder dashboard
+En navegador -->
 # http://localhost:8501
 
 # 7. MongoDB: 22,000+ documentos
